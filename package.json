@@ -10,8 +10,18 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "cors": "^2.8.5",
     "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.2",
     "mongoose": "^8.1.0",
     "zod": "^3.22.4"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MamoonAhmadKhan/Paytm-Clone-Project.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MamoonAhmadKhan/Paytm-Clone-Project/issues"
+  },
+  "homepage": "https://github.com/MamoonAhmadKhan/Paytm-Clone-Project#readme"
 }
